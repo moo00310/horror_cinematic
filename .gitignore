@@ -76,3 +76,5 @@ DerivedDataCache/*
 
 #add ignore file
 Content/Hospital/
+Content/Megascans/
+Content/MSPresets/
