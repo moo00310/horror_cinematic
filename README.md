@@ -1,6 +1,7 @@
 # horror_cinematic
 
-#ignore file
+ignore file
+용량이 커서 따로 뺀 파일들
 Content/Hospital/
 Content/Megascans/
 Content/MSPresets/
