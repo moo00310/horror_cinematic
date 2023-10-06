@@ -11,4 +11,4 @@ Content/3D_Model/
 
 9.25
 링크 소유자 엑세스 허용
-https://drive.google.com/file/d/1KPF0_bFbNfaWvFgY8zTZD28I819yWAT-/view?usp=sharing
+https://drive.google.com/file/d/1ANGgJF8TRr4sqF6t4I4kDumwhz814TVZ/view?usp=sharing
