@@ -5,6 +5,7 @@
 Content/Hospital/
 Content/Megascans/
 Content/MSPresets/
+Content/3D_Model/
 
 - 구글 드라이브 링크
 
